@@ -33,6 +33,13 @@ and Instagram. Then, without you lifting a finger:
 **The golden rule of this project:** nothing in the vault is ever deleted
 without the owner's explicit confirmation. Ever.
 
+### By the numbers
+
+- **21 notes** distilled so far (11 Facebook, 10 Instagram) across **9 topic categories**
+- **2 scheduled automations**: a weekly pull (up to 30 new items per run) and a monthly stale review
+- Before: 76+ Instagram saves sitting in an unsearchable pile. After: any saved insight findable by topic or platform in seconds.
+- It doubles as an automated **swipe file** — a self-building bank of content ideas and inspiration.
+
 ---
 
 ## 2. Demo
