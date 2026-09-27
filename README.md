@@ -33,18 +33,15 @@ and Instagram. Then, without you lifting a finger:
 **The golden rule of this project:** nothing in the vault is ever deleted
 without the owner's explicit confirmation. Ever.
 
-### By the numbers
-
-- **21 notes** distilled so far (11 Facebook, 10 Instagram) across **9 topic categories**
-- **2 scheduled automations**: a weekly pull (up to 30 new items per run) and a monthly stale review
-- Before: 76+ Instagram saves sitting in an unsearchable pile. After: any saved insight findable by topic or platform in seconds.
-- It doubles as an automated **swipe file** — a self-building bank of content ideas and inspiration.
-
 ---
 
 ## 2. Demo
 
-A quick look at the system in action. The three images below are illustrative mockups, not screenshots of a real vault — replace them with your own screenshots anytime (the how-to is right
+A 44-second walkthrough of how the system works:
+
+![How it works — 44 second walkthrough](docs/how-it-works.mp4)
+
+A quick look at the system in action. The four images below are illustrative mockups, not screenshots of a real vault — replace them with your own screenshots anytime (the how-to is right
 underneath).
 
 ![Inbox database — table view](docs/inbox-table.png)
@@ -59,18 +56,24 @@ another.*
 *The email that arrives after every Sunday run: how many notes were added,
 the Facebook/Instagram split, and per-category counts.*
 
+![A distilled note](docs/note-example.png)
+*What a single note looks like: a distilled title, Platform/Category/Date
+Extracted/Source properties, and 3–8 bullet points — never a full
+copy-paste of the original post.*
+
 ### How to add your screenshots (no coding)
 
 1. Take the screenshots: open your Notion vault and capture the Inbox table
-   view and the By Platform board view; capture one weekly confirmation
-   email from your inbox too.
+   view and the By Platform board view; open any single note and capture it
+   too; capture one weekly confirmation email from your inbox as well.
 2. **Blur or crop out anything personal** — your name, email address,
    profile photos — using your phone's photo markup tool or any free image
    editor.
-3. Save the three files with exactly these names:
+3. Save the four files with exactly these names:
    - `inbox-table.png`
    - `inbox-board.png`
    - `weekly-email.png`
+   - `note-example.png`
 4. On your GitHub repo page, open the `docs/` folder → **Add file → Upload
    files** → drag in the three PNGs → **Commit changes**.
 5. Done — the images appear in the Demo section automatically, because the
