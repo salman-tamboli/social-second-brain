@@ -39,7 +39,7 @@ without the owner's explicit confirmation. Ever.
 
 A 44-second walkthrough of how the system works:
 
-![How it works — 44 second walkthrough](docs/how-it-works.mp4)
+<video src="https://github.com/user-attachments/assets/400552d2-4d4a-466b-9a4c-6523d367a7da" controls width="720"></video>
 
 A quick look at the system in action. The four images below are illustrative mockups, not screenshots of a real vault — replace them with your own screenshots anytime (the how-to is right
 underneath).
