@@ -15,7 +15,7 @@ During the week you tap **Save** on interesting reels and posts on Facebook
 and Instagram. Then, without you lifting a finger:
 
 1. **Every Sunday**, an automated job collects everything new you saved,
-   reads/watch each item, and writes a short note for it — a clear title plus
+   reads/watches each item, and writes a short note for it — a clear title plus
    3–8 bullet points capturing the useful part. Each note is filed in a Notion
    database called **📥 Inbox** and tagged with:
    - **Platform** — Facebook or Instagram
@@ -37,8 +37,7 @@ without the owner's explicit confirmation. Ever.
 
 ## 2. Demo
 
-A quick look at the system in action. The three images below are
-placeholders — replace them with your own screenshots (the how-to is right
+A quick look at the system in action. The three images below are illustrative mockups, not screenshots of a real vault — replace them with your own screenshots anytime (the how-to is right
 underneath).
 
 ![Inbox database — table view](docs/inbox-table.png)
@@ -77,7 +76,7 @@ the Facebook/Instagram split, and per-category counts.*
 | **Notion vault** | The knowledge base: one Inbox database + topic areas + an archive | `docs/vault-schema.md` |
 | **Weekly pull** | The Sunday automation: fetch new saves → distill → file → email you | `docs/weekly-pull.md` |
 | **Monthly review** | The 1st-of-month automation: find stale candidates, suggest cleanup | `docs/monthly-review.md` |
-| **Dedupe tracker** | A small file remembering which items were already processed, so nothing is ever added twice | `docs/weekly-pull.md` (section 5) |
+| **Dedupe tracker** | A small file remembering which items were already processed, so nothing is ever added twice | `docs/weekly-pull.md` (section 1) |
 
 ---
 
@@ -169,7 +168,7 @@ steps in order. Each linked doc has the full details.
 
 **Do I need to know programming to use this project as documented?**
 No. Understanding it needs zero code. *Rebuilding* the automation on your
-own would need either some coding or a no-code automation tool — section 4
+own would need either some coding or a no-code automation tool — section 5
 above sketches both paths.
 
 **Can I keep the GitHub repo private?**
